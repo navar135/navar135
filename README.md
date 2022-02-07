@@ -18,12 +18,12 @@ I am Karen Navarro a Ph.D. researcher based in Minneapolis, MN. I have been work
 
 🔭 I am currently developing my dissertation thesis which focuses on how a person's eye dominance changes through repetitive training and the neural correlates responsible for this change. I am looking to transition into industry after I defend my dissertation. 
 I focus on analyzing large neuroimaging and behavioral datasets with the goal of understanding how the two eyes work together to create a single percept of the world. I am experienced in: 
-Python
-R
-SQL
-MATLAB
-Data Cleaning
-Data Visualization
+- Python
+- R
+- SQL
+- MATLAB
+- Data Cleaning
+- Data Visualization
 
 🤔 I am looking for help in transitioning from an academic to an industry career. 
 
