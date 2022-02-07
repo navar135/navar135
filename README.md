@@ -30,4 +30,4 @@ I focus on analyzing large neuroimaging and behavioral datasets with the goal of
 
 ⚡ Fun Fact: I am a recreational weightlifter 🏋🏽 and CrossFit athlete. I recently competed in a scaled competetion and placed 2nd. I love trying new hobbies and activities.  
 
- 📫 How to reach me: https://www.linkedin.com/in/karen-navarro-69351261/
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karen-navarro-69351261/)
