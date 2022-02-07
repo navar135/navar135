@@ -24,6 +24,7 @@ I focus on analyzing large neuroimaging and behavioral datasets with the goal of
 - Data Cleaning
 - Data Visualization
 - Statistical Analysis
+- Machine Learning
 
 🌱 In my spare time I am completing the [Google Analytics Professional Certification](https://www.coursera.org/professional-certificates/google-data-analytics) to understand how data science is applied in an industry context  
 🤔 I am looking for help in transitioning from an academic to an industry career. 
