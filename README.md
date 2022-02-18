@@ -27,7 +27,8 @@ I focus on analyzing large neuroimaging and behavioral datasets with the goal of
 - Machine Learning
 
 🌱 In my spare time I am completing the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning#courses) to gain a deeper understanding of machine learning concepts and how machine learning is applied in a business context  
-🤔 I am looking for help in transitioning from an academic to an industry career. 
+
+🤔 I am looking for help in transitioning from an academic to an industry career
 
 ⚡ Fun Fact: I am a recreational weightlifter 🏋🏽 and CrossFit athlete. I recently competed in a scaled competetion and placed 2nd. I love trying challenging hobbies and activities.  
 
