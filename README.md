@@ -24,9 +24,7 @@ I focus on analyzing large neuroimaging and behavioral datasets with the goal of
 - Data Cleaning
 - Data Visualization
 - Statistical Analysis
-- Machine Learning
-
-🌱 In my spare time I am completing the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning#courses) to gain a deeper understanding of machine learning concepts and how machine learning is applied in a business context  
+- Machine Learning 
 
 🤔 I am looking for help in transitioning from an academic to an industry career
 
