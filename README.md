@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Karen Navarro a Ph.D. researcher based in Minneapolis, MN. I have been working in the field of human vision science for more than six years. 
+I am Karen Navarro a data scientist based in Minneapolis, MN. 
 
-🔭 I am currently developing my dissertation thesis which focuses on how a person's eye dominance changes through repetitive training and the neural correlates responsible for this change. I am looking to transition into industry after I defend my dissertation. 
-I focus on analyzing large neuroimaging and behavioral datasets with the goal of understanding how the two eyes work together to create a single percept of the world. I am experienced in: 
+I recently started my industry data science career working for a personal and commercial insurance company. Before this transition, I had worked in the human vision science for over six years. I focused on analyzing large neuroimaging and behavioral datasets to understand how the two eyes work together to create a single percept of the world. Now I spend most of my time developing risk selection and pricing models. 
+
+ I am experienced in: 
 - Python
 - R
 - MATLAB
 - Data Cleaning
 - Data Visualization
 - Statistical Analysis
-- Machine Learning 
+- Machine Learning
 
-🤔 I am looking for help in transitioning from an academic to an industry career
-
-⚡ Fun Fact: I am a recreational weightlifter 🏋🏽 and CrossFit athlete. I recently competed in a scaled competetion and placed 2nd. I love trying challenging hobbies and activities.  
+  
+🌱 I’m currently learning more about GenAI and how to integrate these techniques in my work
 
  📫 Add me on: [LinkedIn](https://www.linkedin.com/in/karen-navarro-69351261/)
